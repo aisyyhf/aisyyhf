@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm aisyyhf! 👋
 
-<!--
-**aisyyhf/aisyyhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend development enthusiast currently learning and expanding my skills. I enjoy exploring new technologies and building projects to apply what I've learned.
 
-Here are some ideas to get you started:
+## 🚀 Skills and Technologies
+- **Languages**: Go, C++, Java, Python, JavaScript
+- **Frameworks**: Gin
+- **Databases**: MongoDB
+- **Tools**: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Backend development with Go and Gin
+- Building RESTful APIs
+- Database management with MongoDB
+
+## 📫 Contact Me
+- Email: aisyfadlillah@gmail.com
+- LinkedIn: [aisyfadlillah](https://www.linkedin.com/in/aisyfadlillah)
