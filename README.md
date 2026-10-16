@@ -1,21 +1,27 @@
-# Aisy Hafidzah Fadlillah
+<h1 align="center">Hi, I'm Aisy</h1>
 
-Final-year Informatics student based in Bandung, Indonesia. I'm working toward a career in machine learning engineering, with a growing interest in quantitative finance. I've built web apps, CLI tools, and data scrapers, and I'm now focused on machine learning.
+<p align="center">
+  Final-year Informatics student in Bandung, Indonesia<br>
+  Working toward machine learning engineering, with an interest in quantitative finance
+</p>
 
-Previously a QA intern at PT Swamedia Informatika, where I tested web applications and documented bugs with the development team.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aisyfadlillah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:aisyfadlillah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-## Tech
+---
 
-**Languages:** Python, TypeScript, JavaScript, Java, Go, C++, SQL
-**Data and ML:** pandas, scikit-learn, Jupyter
-**Web:** React, Vite, Tailwind CSS, Java Servlets
-**Databases and tools:** Supabase, MySQL, Git
+### About me
 
-## Currently learning
+- I've built web apps, CLI tools, and data scrapers, and I'm now focused on machine learning
+- Previously a QA intern at PT Swamedia Informatika, testing web applications and documenting bugs with the dev team
+- Currently learning ML fundamentals through Kaggle Learn, plus the math behind them: linear algebra, calculus, and statistics
 
-Machine learning fundamentals through Kaggle Learn, along with the math behind it: linear algebra, calculus, and statistics.
+### Tech stack
 
-## Contact
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,cpp,react,vite,tailwind,supabase,mysql,git" alt="Tech stack">
+</p>
 
-- Email: aisyfadlillah@gmail.com
-- LinkedIn: [aisyfadlillah](https://www.linkedin.com/in/aisyfadlillah)
+Also: pandas, scikit-learn, Jupyter
